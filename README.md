@@ -3,6 +3,8 @@
 - Setup vite default page
 - Add react and react-router basic layout to homepage
 - Create login/registratio similar to prev rails project -- hand roll authentication
+- Create schemas for application and associations
+- Create seed data and populate dev database
 
 ## README
 
