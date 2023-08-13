@@ -48,6 +48,9 @@ gem 'dotenv-rails', groups: [:development, :test]
 # Use Sass to process CSS
 gem "sassc-rails"
 
+# Install Vite
+gem 'vite_rails'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
