@@ -1,24 +1,30 @@
-# README
+# TODO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Setup vite default page
+- Add react and react-router basic layout to homepage
+- Create login/registratio similar to prev rails project -- hand roll authentication
 
-Things you may want to cover:
+## README
 
-* Ruby version
+- Ruby version
+  - 3.2.2
+- Rails 7.0.7
+- System dependencies
+- Configuration
+- Database creation
+  
+```bash
+rails db:create
+```
 
-* System dependencies
+- Database initialization
 
-* Configuration
+- How to run the test suite
 
-* Database creation
+- Services (job queues, cache servers, search engines, etc.)
 
-* Database initialization
+- Deployment instructions
 
-* How to run the test suite
+//TODO: Docker file
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+= ...
